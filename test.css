@@ -61,7 +61,7 @@ table {
     border-collapse: separate;
     border-spacing: 2px;
     margin: 20px;           
-    width: 100%;         
+    width: 70%;         
 }
 
 th, td {
@@ -81,6 +81,11 @@ textarea {
 
 textarea {
     height: 50px;
+}
+
+.button-area{
+    margin-top: 500px;
+    margin-left: 30px;
 }
 
 footer{
